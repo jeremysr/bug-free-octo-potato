@@ -1,2 +1,2 @@
-# bug-free-octo-potato
+# octo-potato
 Jeremy's first github, LETS DO THIS
